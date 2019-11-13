@@ -1,4 +1,4 @@
 {
   "*.+(js|ts|tsx)": ["npm run lint", "git add"],
-  "*.+(json|css|md)": ["prettier --write", "git add"]
+  "*.+(json|css)": ["npm run lint-others", "git add"]
 }
