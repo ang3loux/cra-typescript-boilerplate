@@ -2,4 +2,4 @@
 /src/serviceWorker.ts
 
 # configs files
-# *.config.js%
+*.config.js
